@@ -21,13 +21,13 @@ figcaption {
     height: 100%;
     object-fit: cover;
     box-sizing:border-box;
-    padding: $img-spacing;
+    padding: $img-spacing 10px;
 }
 .one {
-    width:33.33%;
+    width:32%;
 }
 .two {
-    width: 66.66%;
+    width: 65%;
 }
 .three {
     width: 100%;

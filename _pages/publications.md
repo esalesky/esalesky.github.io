@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/
 title: publications
 description: 
-pubyears:   [2018, 2016, 2014, 2013]
-evalyears:  [2017, 2016, 2015, 2014, 2013]
+pubyears:   [2019, 2018, 2016, 2014, 2013]
+evalyears:  [2019, 2017, 2016, 2015, 2014, 2013]
 pressyears: [2016]
 ---
 

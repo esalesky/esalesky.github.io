@@ -1,0 +1,114 @@
+---
+---
+
+
+@import "{{ site.theme }}";
+
+.head {
+    float: none;
+    border-right: none
+}
+
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
+}
+
+section {
+    margin-left: 20px;
+    min-width: 600px;
+    padding-bottom: 50px;
+}
+
+a {
+    color: #4b81d6;
+}
+
+a:hover {
+    color: #713782;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+tbody tr td {
+    padding-left: 25px;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+tbody tr td ul {
+    margin: 0;
+    padding-left: 0;
+    font-size: 12px;
+}
+
+tbody tr td ul li {
+    display: inline;
+    list-style-type: none;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 2px;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+th, td {
+    text-align: left;
+    padding: 5px 10px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
+paper authors {
+    display: block;
+    color: #6a737d;
+    font-size: 12px;
+}
+
+paper venue {
+    display: block;
+    color: #444;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+paper venue i {
+    color: #EF5E1EC4;
+}
+
+.card {
+  transition: 0.3s;
+  width: 30%;
+  display: inline-block;
+  margin-right: 15px;
+  margin-bottom: 30px;
+  margin-left: 25px;
+  max-width: 145px;
+  font-size: 16px;
+}
+
+img {
+  max-width: 235px;
+}

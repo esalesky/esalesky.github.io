@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
+        {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="[Elizabeth Salesky]" />
+        {% endif %}
+          
+        <p>I am a PhD student at the <a href="https://www.cs.jhu.edu/">JHU</a> <a href="https://www.clsp.jhu.edu">CLSP</a>. <br>
+          Call me Liz <span class="fa fa-smile-o"></span>
+        </p>
+
+        I am generally interested in: <br>
+        <span class="fa fa-cogs"></span> speech and text translation <br> 
+        <span class="fa fa-cogs"></span> language representations <br> 
+        <span class="fa fa-cogs"></span> low-resource & multilingual settings <br><br>
+
+        <p>
+          <strong>Contact Me!</strong> <br>
+          <a href="mailto:elizabeth.salesky@gmail.com"><span class="fa fa-envelope-open fa-fw"></span> E-mail</a> <br>
+          <a href="https://twitter.com/esalesk"><span class="fa fa-twitter fa-fw"></span> Twitter</a> <br>
+          <a href="https://scholar.google.com/citations?user=9I7TjgMAAAAJ"><span class="fa fa-graduation-cap fa-fw"></span> Google Scholar</a> <br>
+          <a href="http://github.com/esalesky"><span class="fa fa-github fa-fw"></span> GitHub</a> <br>
+          <a href="https://www.linkedin.com/in/elizabeth-salesky-a343824a"><span class="fa fa-linkedin fa-fw"></span> LinkedIn</a> <br>
+        </p>
+      </header>
+      <section>
+
+      {{ content }}
+
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </section>
+      <footer>
+      </footer>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.google_analytics %}
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+    </script>
+    {% endif %}
+  </body>
+</html>

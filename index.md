@@ -54,6 +54,8 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
           <li><a target="_blank" href="https://voxclamantisproject.github.io/">site</a></li>
           <li><a target="_blank" href="https://drive.google.com/drive/folders/10jsQgT5anb-E97DZMbGJjwPZ-Ux91xMM">data</a></li>
           <li><a target="_blank" href="https://github.com/VoxClamantisProject?tab=repositories">code</a></li>
+          <li><a target="_blank" href="https://virtual.acl2020.org/paper_main.415.html">video</a></li>
+          <li><a target="_blank" href="/assets/pdf/acl20_vox_slides.pdf">slides</a></li>
         </ul>
       </td>
     </tr>
@@ -68,6 +70,8 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
       <td>
         <ul>
           <li><a target="_blank" href="https://github.com/rycolab/entropyRegularization">code</a></li>
+          <li><a target="_blank" href="https://virtual.acl2020.org/paper_main.615.html">video</a></li>          
+          <li><a target="_blank" href="/assets/pdf/acl20_ger_slides.pdf">slides</a></li>
         </ul>
       </td>
     </tr>
@@ -81,6 +85,8 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
       </td>
       <td>
         <ul>
+          <li><a target="_blank" href="https://virtual.acl2020.org/paper_main.217.html">video</a></li>
+          <li><a target="_blank" href="/assets/pdf/acl20_phones4st_slides.pdf">slides</a></li>
           <li><a target="_blank" href="https://github.com/esalesky/xnmt-devel">code</a></li>
         </ul>
       </td>
@@ -111,7 +117,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
       <td>
         <a target="_blank" href="/assets/pdf/iwslt19_overview.pdf">The IWSLT 2019 Evaluation Campaign</a>
         <paper>
-          <authors>Jan Niehues, Roldano Cattoni, Sebastian Stüker, Matteo Negri, Marco Turchi, Thanh-Le Ha, <u>Elizabeth Salesky</u>, Ramon Sanabria, Lois Barrault, Lucia Specia, Marcello Federico</authors>
+          <authors>Jan Niehues, Roldano Cattoni, Sebastian Stüker, Matteo Negri, Marco Turchi, Thanh-Le Ha, <u>Elizabeth Salesky</u>, Ramon Sanabria, Loïc Barrault, Lucia Specia, Marcello Federico</authors>
         <venue>IWSLT 2019</venue>
         </paper>
       </td>

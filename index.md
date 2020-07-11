@@ -8,7 +8,7 @@ layout: default
 
 ### About Me
 
-I am a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/).
+I am a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), working with [Matt Post](https://matt.waypost.net/). 
 Generally, I am interested in speech and text translation, language representations, and low-resource & multilingual speech and language processing.
 
 Previously I was a Masters student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I was advised by Alex Waibel, and often worked with Alan Black and the lab at [KIT](http://isl.anthropomatik.kit.edu/english/), which I was lucky to visit in summers. 
@@ -88,6 +88,39 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
           <li><a target="_blank" href="https://virtual.acl2020.org/paper_main.217.html">video</a></li>
           <li><a target="_blank" href="/assets/pdf/acl20_phones4st_slides.pdf">slides</a></li>
           <li><a target="_blank" href="https://github.com/esalesky/xnmt-devel">code</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" href="/assets/pdf/2020.iwslt-overview.pdf">Findings of the 2020 IWSLT Evaluation Campaign</a>
+        <paper>
+          <authors>Ebrahim Ansari, Nguyen Bach, Ondřej Bojar, Roldano Cattoni, Fahim Dalvi, Nadir Durrani, Marcello Federico, Christian Federmann, Jiatao Gu, Fei Huang, Kevin Knight, Xutai Ma, Ajay Nagesh, Matteo Negri, Jan Niehues, Juan Pino, <u>Elizabeth Salesky</u>, Xing Shi, Sebastian Stüker, Marco Turchi, Alex Waibel, Changhan Wang</authors>
+        <venue>IWSLT 2020</venue>
+        </paper>
+      </td>
+      <td>
+        <ul>
+          <li><a target="_blank" href="http://iwslt.org/doku.php?id=conversational_speech_translation">task</a></li>
+          <li><a target="_blank" href="https://github.com/isl-mt/fluent-fisher">fluent <br>&nbsp;data</a></li>
+          <li><a target="_blank" href="https://github.com/esalesky/fisher-mapping">code</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" href="/assets/pdf/2020.sigmorphon-task0.pdf">SIGMORPHON 2020 Shared Task 0: Typologically Diverse Morphological Inflection</a>
+        <paper>
+          <authors>Ekaterina Vylomova, Jennifer White, <u>Elizabeth Salesky</u>, Sabrina J Mielke, Shijie Wu, Edoardo Ponti, Rowan Hall Maudslay, Ran Zmigrod, Josef Valvoda, Svetlana Toldova, Francis Tyers, Elena Klyachko, Ilya Yegorov, Natalia Krizhanovsky, Paula Czarnowska, Irene Nikkarinen, Andrew Krizhanovsky, Tiago Pimentel, Lucas Torroba Hennigen, Christo Kirov, Garrett Nicolai, Adina Williams, Antonios Anastasopoulos, Hilaria Cruz, Eleanor Chodroff, Ryan Cotterell, Miikka Silfverberg, Mans Hulden</authors>
+        <venue>SIGMORPHON 2020</venue>
+        </paper>
+      </td>
+      <td>
+        <ul>
+          <li><a target="_blank" href="https://sigmorphon.github.io/sharedtasks/2020/task0">task</a></li>
+          <li><a target="_blank" href="https://github.com/sigmorphon2020/data">data</a></li>
+          <li><a target="_blank" href="https://github.com/sigmorphon2020/baselines">code</a></li>
+          <li><a target="_blank" href="https://slideslive.com/38929870/sigmorphon-2020-shared-task-0-typologically-diverse-morphological-inflection">video</a></li>
         </ul>
       </td>
     </tr>

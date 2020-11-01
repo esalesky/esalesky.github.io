@@ -9,7 +9,7 @@ layout: default
 ### About Me
 
 I am a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), working with [Matt Post](https://matt.waypost.net/). 
-Generally, I am interested in speech and text translation, language representations, and low-resource & multilingual speech and language processing.
+Generally, I am interested in speech and text translation, language variation, and low-resource & multilingual speech and language processing.
 
 Previously I was a Masters student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I was advised by Alex Waibel, and often worked with Alan Black and the lab at [KIT](http://isl.anthropomatik.kit.edu/english/), which I was lucky to visit in summers. 
 My research focused on different aspects of speech and text translation, including phoneme-informed ST models, optimizing BPE segmentation online during MT training, and disfluency removal ([new dataset here!](https://github.com/isl-mt/fluent-fisher))
@@ -41,6 +41,36 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="/assets/pdf/sigtyp_st2020.pdf">SIGTYP 2020 Shared Task: Prediction of Typological Features</a>
+        <paper>
+          <authors>Johannes Bjerva, <u>Elizabeth Salesky</u>, Sabrina J. Mielke, Aditi Chaudhary, Giuseppe G. A. Celano, Edoardo M. Ponti, Ekaterina Vylomova, Ryan Cotterell, Isabelle Augenstein</authors>
+        <venue>SIGTYP 2020</venue>
+        </paper>
+      </td>
+      <td>
+        <ul>
+          <li><a target="_blank" href="https://sigtyp.github.io/st2020.html">site</a></li>
+          <li><a target="_blank" href="https://github.com/sigtyp/ST2020">data</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" href="/assets/pdf/interspeech20_relativepos.pdf">Relative Positional Encoding for Speech Recognition and Direct Translation</a>
+        <paper>
+          <authors>Ngoc-Quan Pham, Thanh-Le Ha, Tuan-Nam Nguyen, Thai-Son Nguyen, <u>Elizabeth Salesky</u>, Sebastian Stueker, Jan Niehues, Alex Waibel</authors>
+        <venue>INTERSPEECH 2020</venue>
+        </paper>
+      </td>
+      <td>
+        <ul>
+          <li><a target="_blank" href="https://github.com/quanpn90/NMTGMinor">code</a></li>
+          <li><a target="_blank" href="http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=243&id=313">video</a></li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td>
         <a target="_blank" href="/assets/pdf/acl20_voxclamantis.pdf">A Corpus For Large-Scale Phonetic Typology</a>

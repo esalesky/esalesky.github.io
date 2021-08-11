@@ -36,6 +36,73 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
 <table>
   <thead>
     <tr>
+      <th style="text-align: left">2021</th>
+      <th style="text-align: left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" href="/assets/pdf/visrep_2021.pdf">Robust Open-Vocabulary Translation from Visual Text Representations</a>
+        <paper>
+          <authors><u>Elizabeth Salesky</u>, David Etter, Matt Post</authors>
+        <venue>preprint</venue>
+        </paper>
+      </td>
+      <td>
+        <ul>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" href="/assets/pdf/mtedx_interspeech2021.pdf">The Multilingual TEDx Corpus for Speech Recognition and Translation</a>
+        <paper>
+          <authors><u>Elizabeth Salesky</u>, Matthew Wiesner, Jacob Bremerman, Roldano Cattoni, Matteo Negri, Marco Turchi, Douglas W. Oard, Matt Post</authors>
+        <venue>Interspeech 2021</venue>
+        </paper>
+      </td>
+      <td>
+        <ul>
+          <li><a target="_blank" href="http://openslr.org/100">data</a></li>
+          <li><a target="_blank" href="https://github.com/pytorch/fairseq/blob/master/examples/speech_to_text/docs/mtedx_example.md">fairseq</a></li>
+          <li><a target="_blank" href="https://github.com/m-wiesner/tedx">ASR code</a></li>
+          <li><a target="_blank" href="https://github.com/esalesky/vecalign">ali code</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" href="/assets/pdf/iwslt_st2021.pdf">FINDINGS OF THE IWSLT 2021 EVALUATION CAMPAIGN</a>
+        <paper>
+          <authors>Antonios Anastasopoulos, Ondřej Bojar, Jacob Bremerman, Roldano Cattoni, Maha Elbayad, Marcello Federico, Xutai Ma, Satoshi Nakamura, Matteo Negri, Jan Niehues, Juan Pino, <u>Elizabeth Salesky</u>, Sebastian Stüker, Katsuhito Sudoh, Marco Turchi, Alexander Waibel, Changhan Wang, Matthew Wiesner</authors>
+        <venue>IWSLT 2021</venue>
+        </paper>
+      </td>
+      <td>
+        <ul>
+          <li><a target="_blank" href="https://iwslt.org/2021/">site</a></li>
+          <li><a target="_blank" href="http://openslr.org/100">data</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" href="/assets/pdf/sigtyp_st2021.pdf">SIGTYP 2021 Shared Task: Robust Spoken Language Identification</a>
+        <paper>
+          <authors><u>Elizabeth Salesky</u>, Badr M. Abdullah, Sabrina Mielke, Elena Klyachko, Oleg Serikov, Edoardo Maria Ponti, Ritesh Kumar, Ryan Cotterell, Ekaterina Vylomova</authors>
+        <venue>SIGTYP 2021</venue>
+        </paper>
+      </td>
+      <td>
+        <ul>
+          <li><a target="_blank" href="https://sigtyp.github.io/st2021.html">site</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
       <th style="text-align: left">2020</th>
       <th style="text-align: left"></th>
     </tr>

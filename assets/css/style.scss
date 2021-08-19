@@ -10,8 +10,26 @@
 }
 
 .wrapper {
-    width: 900px;
     margin: 0 auto;
+}
+
+header {
+    color: #36454F;
+}
+
+section {
+    padding-bottom: 50px;
+}
+
+/* --- large screens --- */
+@media screen and (min-width: 1024px){
+    .wrapper {
+        width: 900px;
+    }
+    
+    section {
+        width: 600px;
+    }
 }
 
 body {
@@ -20,12 +38,6 @@ body {
 
 h1,h2,h3,h4,h5,h6 {
     color: #36454F;
-}
-
-section {
-    margin-left: 20px;
-    min-width: 600px;
-    padding-bottom: 50px;
 }
 
 a, a:visited {

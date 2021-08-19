@@ -2,9 +2,8 @@
 layout: default
 ---
 
-<span style="font-weight: bold; font-size: 16px;">
-  [[Publications]](#publications) · <a href="/assets/pdf/Salesky_CV.pdf" target="_blank">[CV]</a>
-</span>
+### [Home](/) | [Publications](#publications) | [CV](/assets/pdf/Salesky_CV.pdf){:target="_blank"}
+
 
 ### About Me
 
@@ -30,6 +29,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
   <img src="assets/img/eiskaffee.jpg" alt="Eiskaffee" style="width:100%">
 </div>
 
+<hr>
 
 ### Publications
 

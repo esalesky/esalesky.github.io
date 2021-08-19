@@ -14,18 +14,27 @@
     margin: 0 auto;
 }
 
+body {
+    color: #6D787F;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #36454F;
+}
+
 section {
     margin-left: 20px;
     min-width: 600px;
     padding-bottom: 50px;
 }
 
-a {
-    color: #4b81d6;
+a, a:visited {
+    color: #1653C4;
 }
 
-a:hover {
-    color: #713782;
+a:hover, a:focus {
+    color: #01A7C2;
+    font-weight: inherit;
 }
 
 ul {
@@ -95,7 +104,7 @@ paper venue {
 }
 
 paper venue i {
-    color: #EF5E1EC4;
+    color: #F06543;
 }
 
 .card {

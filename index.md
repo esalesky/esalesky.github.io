@@ -16,7 +16,7 @@ My research focused on different aspects of speech and text translation, includi
 
 Before grad school, I worked at MIT Lincoln Laboratory in the Human Language Technology group from 2012-2017, focused primarily on machine translation and language learning applications.
 I graduated from Dartmouth College in 2012, where I studied Math and Linguistics.
-My undergraduate [thesis](http://linguistics.dartmouth.edu/undergraduate/honors/past-honors-theses) compared unsupervised segmentation methods on a set of unrelated languages with Ann Irvine.
+My undergraduate [thesis](http://linguistics.dartmouth.edu/undergraduate/honors/past-honors-theses) compared the linguistic validity of unsupervised segmentation methods with Ann Irvine.
 
 When not at my computer, I like to [learn languages](https://www.duolingo.com/esalesky), run long distances, and bike to ice cream!
 
@@ -66,7 +66,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
         <ul>
           <li><a target="_blank" href="http://openslr.org/100">data</a></li>
           <li><a target="_blank" href="https://github.com/pytorch/fairseq/blob/master/examples/speech_to_text/docs/mtedx_example.md">fairseq</a></li>
-          <li><a target="_blank" href="https://github.com/m-wiesner/tedx">ASR code</a></li>
+          <li><a target="_blank" href="https://github.com/m-wiesner/tedx">kaldi</a></li>
           <li><a target="_blank" href="https://github.com/esalesky/vecalign">ali code</a></li>
         </ul>
       </td>

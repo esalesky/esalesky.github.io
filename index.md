@@ -1,9 +1,9 @@
 ---
+title: Elizabeth Salesky
 layout: default
 ---
 
 ### [Home](/) | [Publications](#publications) | [CV](/assets/pdf/Salesky_CV.pdf){:target="_blank"}
-
 
 ### About Me
 
@@ -30,7 +30,6 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
 </div>
 
 <hr>
-
 
 ### Publications
 

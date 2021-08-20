@@ -50,7 +50,8 @@ a:hover, a:focus {
 }
 
 ul {
-    display: block;
+/*  display: block; */
+    display: inline;
     list-style-type: disc;
     margin-block-start: 1em;
     margin-block-end: 1em;
@@ -109,7 +110,7 @@ paper authors {
 }
 
 paper venue {
-    display: block;
+/*  display: block; */
     color: #444;
     font-size: 12px;
     font-weight: bold;
@@ -117,6 +118,9 @@ paper venue {
 
 paper venue i {
     color: #F06543;
+    font-family: Courier;
+    font-style: normal;
+    vertical-align: text-bottom;
 }
 
 .card {
@@ -132,4 +136,52 @@ paper venue i {
 
 img {
   max-width: 235px;
+}
+
+.badge {
+    display: inline-block;
+    padding: 0.35em 0.7em;
+    font-size: 0.875em;
+    font-weight: normal;
+    line-height: 0.875;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+/*  color: #fff; 
+    border-radius: 0.25rem; */
+    border: 1px solid #D3D3D3;
+}
+.badge:hover {
+    background-color: #F9F9F9;
+}
+.badge:empty {
+    display: none;
+}
+.btn .badge {
+    position: relative;
+    top: -1px;
+}
+.badge-pill {
+    padding-right: .5em;
+    padding-left: .5em;
+    border-radius: 5rem;
+}
+/* teal: 004C6C, red: CC1E4A, yellow: FFC906, blue: 223971, orange: F4801F, gray: 464646, light blue: 008CD1, gray-blue: 202A2F, deep blue: 121F45, darker-red: CB2026, almost-black:171717 */
+.badge-paper {
+    color: #008CD1;
+}
+.badge-data {
+    color: #F4801F;
+}
+.badge-code {
+    color: #004C6C; 
+}
+.badge-slides {
+    color: #CC1E4A;
+}
+.badge-video {
+    color: #CC1E4A;
+}
+.badge-site {
+    color: #171717;
 }

@@ -45,7 +45,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
         <a target="_blank" href="/assets/pdf/visrep_2021.pdf">Robust Open-Vocabulary Translation from Visual Text Representations</a>
         <paper>
           <authors><u>Elizabeth Salesky</u>, David Etter, Matt Post</authors>
-          <venue>preprint</venue> · 
+          <venue>EMNLP 2021</venue> · 
           <ul>
             <a target="_blank" href="/assets/pdf/visrep_2021.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="http://www.cs.jhu.edu/~kevinduh/a/multitarget-tedtalks/"><span class="badge badge-pill badge-data">data</span></a>

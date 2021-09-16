@@ -49,6 +49,21 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
           <ul>
             <a target="_blank" href="/assets/pdf/visrep_2021.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="http://www.cs.jhu.edu/~kevinduh/a/multitarget-tedtalks/"><span class="badge badge-pill badge-data">data</span></a>
+            <a target="_blank" href="https://github.com/esalesky/visrep"><span class="badge badge-pill badge-code">code</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" href="/assets/pdf/xuid_2021.pdf">A surprisal—duration trade-off across and within the world's languages</a>
+        <paper>
+          <authors>Tiago Pimentel, Clara Meister, <u>Elizabeth Salesky</u>, Simone Teufel, Damián Blasi, Ryan Cotterell</authors>
+          <venue>EMNLP 2021</venue> · 
+          <ul>
+            <a target="_blank" href="/assets/pdf/xuid_2021.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="http://voxclamantisproject.github.io"><span class="badge badge-pill badge-data">data</span></a>
+            <a target="_blank" href="https://github.com/rycolab/surprisal-duration-tradeoff"><span class="badge badge-pill badge-code">code</span></a>
           </ul>
         </paper>
       </td>

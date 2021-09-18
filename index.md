@@ -9,7 +9,7 @@ layout: default
 
 Hi! I'm Liz Salesky ([/lɪz səˈlɛski/](http://ipa-reader.xyz/?text=l%C9%AAz%20s%C9%99%CB%88l%C9%9Bski)), a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), working with [Matt Post](https://waypost.net/). 
 
-Generally, I am interested in machine translation and language variation, and how we can make more data-efficient models which are robust to the variation observed across different languages and data sources.
+Generally, I am interested in machine translation and language representations, and how to make more data-efficient models which are robust to the variation observed across different languages and data sources.
 I co-organize [NLP with Friends](https://nlpwithfriends.com/), an online student seminar, with Abhilasha Ravichander, Yanai Elazar, and Zeerak Waseem. 
 
 Previously, I was a Masters student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) advised by [Alex Waibel](https://www.cs.cmu.edu/~ahw/), and often collaborated with [Alan W Black](https://www.cs.cmu.edu/~awb/) and the lab at [KIT](http://isl.anthropomatik.kit.edu/english/), where I worked in the summers. 

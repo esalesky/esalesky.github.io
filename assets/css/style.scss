@@ -15,10 +15,18 @@
 
 header {
     color: #36454F;
+    padding-left: 10px;
 }
 
 section {
-    padding-bottom: 50px;
+    padding-bottom: 1em;
+}
+
+hr {
+    border: 0;
+    background: #e5e5e5;
+    height: 1px;
+    margin: 0 0 2em;
 }
 
 /* --- large screens --- */
@@ -31,6 +39,14 @@ section {
         width: 600px;
     }
 }
+
+@media screen and (min-width: 960px){
+    .nav-bar {
+        padding-top: 4em;
+        margin-top: -4em;
+    }
+}
+/* --- */
 
 body {
     color: #6a737d;
@@ -117,10 +133,35 @@ paper venue {
 }
 
 paper venue i {
-    color: #F06543;
+    color: #9e43f0;
     font-family: Courier;
     font-style: normal;
     vertical-align: text-bottom;
+}
+
+.shared-task {
+
+}
+
+.research-paper {
+
+}
+
+.nav-bar {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: #fff;
+    padding-bottom: 0.9em;
+    z-index: 9999;
+}
+
+h3 {
+    position: relative;
+}
+h3:target {
+    padding-top: 6.5em;
+    margin-top: -6.5em;
 }
 
 .card {

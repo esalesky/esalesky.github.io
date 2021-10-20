@@ -74,5 +74,15 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+    <script>
+      var navbar = document.querySelector('.nav-bar')
+      window.onscroll = function() {
+        if (window.pageYOffset > 5) {
+          navbar.classList.add('scrolled')
+        } else {
+          navbar.classList.remove('scrolled')
+        }
+      }
+    </script>
   </body>
 </html>

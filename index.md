@@ -40,6 +40,19 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
   <tbody>
     <tr>
       <td>
+        <a target="_blank" class="research-paper" href="/assets/pdf/asru21_assessing.pdf">Assessing Evaluation Metrics for Speech-to-Speech Translation</a>
+        <paper>
+          <authors><u>Elizabeth Salesky</u>, Julian Mäder, Severin Klinger</authors>
+          <venue>ASRU 2021</venue> · 
+          <ul>
+            <a target="_blank" href="/assets/pdf/asru21_assessing.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://projects.mtc.ethz.ch/swiss-voice-data-collection"><span class="badge badge-pill badge-data">data</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a target="_blank" class="research-paper" href="/assets/pdf/visrep_2021.pdf">Robust Open-Vocabulary Translation from Visual Text Representations</a>
         <paper>
           <authors><u>Elizabeth Salesky</u>, David Etter, Matt Post</authors>

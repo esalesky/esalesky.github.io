@@ -5,14 +5,14 @@ layout: default
 
 ### About Me
 
-Hi! I'm Liz Salesky ([/lɪz səˈlɛski/](http://ipa-reader.xyz/?text=l%C9%AAz%20s%C9%99%CB%88l%C9%9Bski)), a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), working with [Matt Post](https://waypost.net/). 
+Hi! I'm Liz Salesky ([/lɪz səˈlɛski/](http://ipa-reader.xyz/?text=l%C9%AAz%20s%C9%99%CB%88l%C9%9Bski)), a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), advised by [Matt Post](https://waypost.net/) and [Philipp Koehn](https://www.cs.jhu.edu/~phi/). 
 
-Generally, I am interested in machine translation and language representations, and how to make more data-efficient models which are robust to the variation observed across different languages and data sources.
+My research primarily focuses on machine translation and language representations, including how to create models which are more data-efficient and robust to variation across languages and data sources. 
 I co-organize [NLP with Friends](https://nlpwithfriends.com/), an online student seminar, with Abhilasha Ravichander, Yanai Elazar, and Zeerak Waseem. 
 
 Previously, I was a Masters student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) advised by [Alex Waibel](https://www.cs.cmu.edu/~ahw/), and often collaborated with [Alan W Black](https://www.cs.cmu.edu/~awb/) and the lab at [KIT](http://isl.anthropomatik.kit.edu/english/), where I worked in the summers. 
 Before that, I worked at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) in the Human Language Technology group from 2012-2017, focused primarily on machine translation and language learning applications.
-I graduated from Dartmouth College in 2012, where I studied Math and Linguistics.
+I graduated from Dartmouth College in 2012, where I studied Linguistics and Math. 
 My [undergraduate thesis](http://linguistics.dartmouth.edu/undergraduate/honors/past-honors-theses) with Ann Irvine compared the linguistic validity of unsupervised segmentation methods.
 
 When not at my computer, I like to [learn languages](https://www.duolingo.com/esalesky), run, and bike to ice cream!
@@ -40,6 +40,18 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
   <tbody>
     <tr>
       <td>
+        <a target="_blank" class="research-paper" href="https://arxiv.org/pdf/2112.10508.pdf">Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP</a>
+        <paper>
+          <authors>Sabrina J. Mielke, Zaid Alyafeai, <u>Elizabeth Salesky</u>, Colin Raffel, Manan Dey, Matthias Gallé, Arun Raja, Chenglei Si, Wilson Y. Lee, Benoît Sagot, Samson Tan</authors>
+          <venue>arXiv preprint</venue> · 
+          <ul>
+            <a target="_blank" href="https://arxiv.org/pdf/2112.10508.pdf"><span class="badge badge-pill badge-paper">pdf</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a target="_blank" class="research-paper" href="/assets/pdf/asru21_assessing.pdf">Assessing Evaluation Metrics for Speech-to-Speech Translation</a>
         <paper>
           <authors><u>Elizabeth Salesky</u>, Julian Mäder, Severin Klinger</authors>
@@ -50,7 +62,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
           </ul>
         </paper>
       </td>
-    </tr>
+    </tr>    
     <tr>
       <td>
         <a target="_blank" class="research-paper" href="/assets/pdf/visrep_2021.pdf">Robust Open-Vocabulary Translation from Visual Text Representations</a>

@@ -14,8 +14,9 @@
 }
 
 header {
-    color: #36454F;
     padding-left: 10px;
+    font-family: "Noto Sans Light",sans-serif;
+    font-size: 0.8rem;
 }
 
 section {
@@ -49,16 +50,60 @@ hr {
 /* --- */
 
 body {
-    color: #6a737d;
+    color: #111111;
+    font-family: "Noto Sans",sans-serif;
+}
+
+p {
+    font-family: "Noto Sans Light",sans-serif;
 }
 
 h1,h2,h3,h4,h5,h6 {
-    color: #36454F;
+    font-family: "Noto Sans",sans-serif;
     margin: 0 0 1em;
+    color: #2C313C;
+}
+
+header h4 {
+    margin: 0 0 0em;
+}
+
+.fa, .fas {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    font-size: 0.75rem;
+}
+
+.fa-contact-links a {
+    color: #111111;
+}
+
+.fa-cogs,
+.fa-map-marker, 
+.fa-envelope-open,
+.fa-graduation-cap,
+.ai-semantic-scholar {
+    color: #0f192e;
+}
+
+.fa-twitter-square {
+    color: #55acee;
+}
+
+.fa-linkedin {
+    color: #007bb6;
+}
+
+.fa-github {
+    color: #171516;
+}
+
+p a, p a:hover, p a:visited {
+    font-weight: bold;
 }
 
 a, a:visited {
-    color: #1653C4;
+    color: #1653DD;
 }
 
 a:hover, a:focus {
@@ -115,6 +160,10 @@ th, td {
     border-bottom: 1px solid #e5e5e5;
 }
 
+th {
+    color: #202A2F;
+}
+
 td {
     display: table-cell;
     vertical-align: inherit;
@@ -123,12 +172,13 @@ td {
 paper authors {
     display: block;
     color: #6a737d;
+    font-family: "Noto Sans Light",sans-serif;    
     font-size: 12px;
 }
 
 paper venue {
 /*  display: block; */
-    color: #444;
+    color: #202A2F;
     font-size: 12px;
     font-weight: bold;
 }
@@ -156,6 +206,7 @@ paper venue i {
     padding-bottom: 0.9em;
     z-index: 9999;
 }
+    
 .scrolled {
     box-shadow: 0 4px 6px -6px white;
 }
@@ -181,6 +232,14 @@ h3:target {
 
 img {
   max-width: 235px;
+}
+
+.profile-image {
+    padding-bottom: 5px;
+/*  border-radius: .25rem !important;
+    -moz-box-shadow:    3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow:         3px 3px 5px 6px #ccc; */
 }
 
 .badge {

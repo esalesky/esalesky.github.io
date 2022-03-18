@@ -5,12 +5,13 @@ layout: default
 
 ### About Me
 
-Hi! I'm Liz Salesky ([/lɪz səˈlɛski/](http://ipa-reader.xyz/?text=l%C9%AAz%20s%C9%99%CB%88l%C9%9Bski)), a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), advised by [Matt Post](https://waypost.net/) and [Philipp Koehn](https://www.cs.jhu.edu/~phi/). 
+Hi! I'm Liz Salesky ([/lɪz səˈlɛski/](http://ipa-reader.xyz/?text=l%C9%AAz%20s%C9%99%CB%88l%C9%9Bski)), a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), advised by [Matt Post](https://waypost.net/) and [Philipp Koehn](https://www.cs.jhu.edu/~phi/).  
+I am very lucky to be supported by the [Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2022). 
 
 My research primarily focuses on machine translation and language representations, including how to create models which are more data-efficient and robust to variation across languages and data sources. 
 I co-organize [NLP with Friends](https://nlpwithfriends.com/), an online student seminar, with Abhilasha Ravichander, Yanai Elazar, and Zeerak Waseem. 
 
-Previously, I was a Masters student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) advised by [Alex Waibel](https://www.cs.cmu.edu/~ahw/), and often collaborated with [Alan W Black](https://www.cs.cmu.edu/~awb/) and the lab at [KIT](http://isl.anthropomatik.kit.edu/english/), where I worked in the summers. 
+ Previously, I was a Masters student at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), where I was advised by [Alex Waibel](https://www.cs.cmu.edu/~ahw/) and often collaborated with [Alan W Black](https://www.cs.cmu.edu/~awb/) and the lab at [KIT](http://isl.anthropomatik.kit.edu/english/), where I worked in the summers. 
 Before that, I worked at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) in the Human Language Technology group from 2012-2017, focused primarily on machine translation and language learning applications.
 I graduated from Dartmouth College in 2012, where I studied Linguistics and Math. 
 My [undergraduate thesis](http://linguistics.dartmouth.edu/undergraduate/honors/past-honors-theses) with Ann Irvine compared the linguistic validity of unsupervised segmentation methods.

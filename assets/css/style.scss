@@ -3,6 +3,8 @@
 
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
 
 .head {
     float: none;
@@ -74,8 +76,13 @@ header h4 {
     font-size: 0.75rem;
 }
 
-.fa-contact-links a {
+.fa-contact-links a, .fa-contact-links a:visited {
     color: #111111;
+}
+
+.fa-contact-links a:hover, .fa-contact-links a:focus {
+    color: #01A7C2;
+    font-weight: inherit;
 }
 
 .fa-cogs,
@@ -99,7 +106,8 @@ header h4 {
 }
 
 p a, p a:hover, p a:visited {
-    font-weight: bold;
+    font-family: "Noto Sans",sans-serif;
+/*    font-weight: bold; */
 }
 
 a, a:visited {

@@ -5,7 +5,7 @@ layout: default
 
 ### About Me
 
-Hi! I'm Liz Salesky ([/lɪz səˈlɛski/](http://ipa-reader.xyz/?text=l%C9%AAz%20s%C9%99%CB%88l%C9%9Bski)), a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), advised by [Matt Post](https://waypost.net/) and [Philipp Koehn](https://www.cs.jhu.edu/~phi/).  
+Hi! I'm Liz Salesky ([/lɪz səˈlɛski/](http://ipa-reader.xyz/?text=l%C9%AAz%20s%C9%99%CB%88l%C9%9Bski)), a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), advised by [Matt Post](https://post3.net/) and [Philipp Koehn](https://www.cs.jhu.edu/~phi/).  
 I am very lucky to be supported by the [Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2022). 
 
 My research primarily focuses on machine translation and language representations, including how to create models which are more data-efficient and robust to variation across languages and data sources. 
@@ -33,6 +33,103 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
 ### Publications
 
 <table>
+  <thead>
+    <tr>
+      <th>2023</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2207.06991">Language Modelling with Pixels</a>
+        <paper>
+          <authors>Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, <u>Elizabeth Salesky</u>, Miryam de Lhoneux, Desmond Elliott</authors>
+          <venue>ICLR 2023</venue> · 
+          <ul>
+            <a target="_blank" href="https://arxiv.org/abs/2207.06991"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://github.com/xplip/pixel"><span class="badge badge-pill badge-code">code</span></a> · 
+            <a target="_blank" href="https://huggingface.co/spaces/Team-PIXEL/PIXEL"><span class="badge badge-pill badge-video">demo</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2301.10606">A Holistic Cascade System, Benchmark, and Human Evaluation Protocol for Expressive Speech-to-Speech Translation</a>
+        <paper>
+          <authors>Wen-Chin Huang, Benjamin Peloquin, Justine Kao, Changhan Wang, Hongyu Gong, <u>Elizabeth Salesky</u>, Yossi Adi, Ann Lee, Peng-Jen Chen</authors>
+          <venue>arXiv preprint</venue> · 
+          <ul>
+            <a target="_blank" href="https://arxiv.org/abs/2301.10606"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://facebookresearch.github.io/speech_translation/cascade_expressive_s2st/"><span class="badge badge-pill badge-video">demo</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
+      <th>2022</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://arxiv.org/pdf/2211.05100">BLOOM: A 176B-Parameter Open-Access Multilingual Language Model</a>
+        <paper>
+          <authors>BigScience Workshop: Teven Le Scao, ..., <u>Elizabeth Salesky</u>, ..., + many more</authors>
+          <venue>arXiv preprint</venue> · 
+          <ul>
+            <a target="_blank" href="https://arxiv.org/abs/2211.05100"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://hf.co/bigscience/bloom"><span class="badge badge-pill badge-code">code</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2207.03546">BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus</a>
+        <paper>
+          <authors>Josh Meyer, David Ifeoluwa Adelani, Edresson Casanova, Alp Öktem, Daniel Whitenack Julian Weber, Salomon Kabongo, <u>Elizabeth Salesky</u>, Iroro Orife, Colin Leong, Perez Ogayo, Chris Emezue, Jonathan Mukiibi, Salomey Osei, Apelete Agbolo, Victor Akinode, Bernard Opoku, Samuel Olanrewaju, Jesujoba Alabi, Shamsuddeen Muhammad</authors>
+          <venue>INTERSPEECH 2022</venue> · 
+          <ul>
+            <a target="_blank" href="https://arxiv.org/abs/2207.03546"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="http://www.openslr.org/129/"><span class="badge badge-pill badge-data">data</span></a> · 
+            <a target="_blank" href="https://github.com/masakhane-io/bibleTTS"><span class="badge badge-pill badge-code">code</span></a> · 
+            <a target="_blank" href="https://masakhane-io.github.io/bibleTTS/"><span class="badge badge-pill badge-site">site</span></a>      
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2205.03608">UniMorph 4.0: Universal Morphology</a>
+        <paper>
+          <authors>Khuyagbaatar Batsuren, Omer Goldman, ..., <u>Elizabeth Salesky</u>, ..., + many more</authors>
+          <venue>LREC 2022</venue> · 
+          <ul>
+            <a target="_blank" href="https://arxiv.org/abs/2205.03608"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://github.com/unimorph"><span class="badge badge-pill badge-data">data</span></a> · 
+            <a target="_blank" href="https://unimorph.github.io"><span class="badge badge-pill badge-site">site</span></a>      
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" class="shared-task" href="https://aclanthology.org/2022.iwslt-1.10/">Findings of the IWSLT 2022 Evaluation Campaign</a>
+        <paper>
+          <authors>Antonios Anastasopoulos, Loïc Barrault, Luisa Bentivogli, Marcely Zanon Boito, Ondřej Bojar, Roldano Cattoni, Anna Currey, Georgiana Dinu, Kevin Duh, Maha Elbayad, Clara Emmanuel, Yannick Estève, Marcello Federico, Christian Federmann, Souhir Gahbiche, Hongyu Gong, Roman Grundkiewicz, Barry Haddow, Benjamin Hsu, Dávid Javorský, Vĕra Kloudová, Surafel Lakew, Xutai Ma, Prashant Mathur, Paul McNamee, Kenton Murray, Maria Nǎdejde, Satoshi Nakamura, Matteo Negri, Jan Niehues, Xing Niu, John Ortega, Juan Pino, <u>Elizabeth Salesky</u>, Jiatong Shi, Matthias Sperber, Sebastian Stüker, Katsuhito Sudoh, Marco Turchi, Yogesh Virkar, Alexander Waibel, Changhan Wang, Shinji Watanabe</authors>
+          <venue>IWSLT 2022</venue> · 
+          <ul>
+            <a target="_blank" href="https://aclanthology.org/2022.iwslt-1.10/"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://iwslt.org/2022/#shared-tasks"><span class="badge badge-pill badge-data">data</span></a> · 
+            <a target="_blank" href="https://iwslt.org/2022/#shared-tasks"><span class="badge badge-pill badge-site">site</span></a>      
+          </ul>
+        </paper>
+      </td>
+    </tr>
+  </tbody>
   <thead>
     <tr>
       <th>2021</th>
@@ -72,7 +169,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
           <venue>EMNLP 2021</venue> · 
           <ul>
             <a target="_blank" href="/assets/pdf/visrep_2021.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
-            <a target="_blank" href="http://www.cs.jhu.edu/~kevinduh/a/multitarget-tedtalks/"><span class="badge badge-pill badge-data">data</span></a>
+            <a target="_blank" href="http://www.cs.jhu.edu/~kevinduh/a/multitarget-tedtalks/"><span class="badge badge-pill badge-data">data</span></a> · 
             <a target="_blank" href="https://github.com/esalesky/visrep"><span class="badge badge-pill badge-code">code</span></a>
           </ul>
         </paper>
@@ -86,7 +183,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
           <venue>EMNLP 2021</venue> · 
           <ul>
             <a target="_blank" href="/assets/pdf/xuid_2021.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
-            <a target="_blank" href="http://voxclamantisproject.github.io"><span class="badge badge-pill badge-data">data</span></a>
+            <a target="_blank" href="http://voxclamantisproject.github.io"><span class="badge badge-pill badge-data">data</span></a> · 
             <a target="_blank" href="https://github.com/rycolab/surprisal-duration-tradeoff"><span class="badge badge-pill badge-code">code</span></a>
           </ul>
         </paper>
@@ -97,7 +194,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
         <a target="_blank" class="research-paper" href="/assets/pdf/mtedx_interspeech2021.pdf">The Multilingual TEDx Corpus for Speech Recognition and Translation</a>
         <paper>
           <authors><u>Elizabeth Salesky</u>, Matthew Wiesner, Jacob Bremerman, Roldano Cattoni, Matteo Negri, Marco Turchi, Douglas W. Oard, Matt Post</authors>
-          <venue>Interspeech 2021</venue> · 
+          <venue>INTERSPEECH 2021</venue> · 
           <ul>
             <a target="_blank" href="/assets/pdf/mtedx_interspeech2021.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="http://openslr.org/100"><span class="badge badge-pill badge-data">data</span></a> · 
@@ -110,7 +207,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/es
     </tr>
     <tr>
       <td>
-        <a target="_blank" class="shared-task" href="/assets/pdf/iwslt_st2021.pdf">FINDINGS OF THE IWSLT 2021 EVALUATION CAMPAIGN</a>
+        <a target="_blank" class="shared-task" href="/assets/pdf/iwslt_st2021.pdf">Findings of the IWSLT 2021 Evaluation Campaign</a>
         <paper>
           <authors>Antonios Anastasopoulos, Ondřej Bojar, Jacob Bremerman, Roldano Cattoni, Maha Elbayad, Marcello Federico, Xutai Ma, Satoshi Nakamura, Matteo Negri, Jan Niehues, Juan Pino, <u>Elizabeth Salesky</u>, Sebastian Stüker, Katsuhito Sudoh, Marco Turchi, Alexander Waibel, Changhan Wang, Matthew Wiesner</authors>
           <venue>IWSLT 2021</venue> · 

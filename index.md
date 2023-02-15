@@ -16,7 +16,7 @@ Before that, I worked at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) in th
 I graduated from Dartmouth College in 2012, where I studied Linguistics and Math. 
 My [undergraduate thesis](http://linguistics.dartmouth.edu/undergraduate/honors/past-honors-theses) with Ann Irvine compared the linguistic validity of unsupervised segmentation methods.
 
-When not at my computer, I like to [learn languages](https://www.duolingo.com/esalesky), run, and bike to ice cream!
+When not at my computer, I like to [learn languages](https://www.duolingo.com/profile/esalesky), run, and bike to ice cream!
 
 <div class="card">
   <img src="assets/img/hp.jpg" alt="Zauberer" style="width:100%">

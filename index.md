@@ -41,6 +41,19 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
   <tbody>
     <tr>
       <td>
+        <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2301.10606">A Holistic Cascade System, Benchmark, and Human Evaluation Protocol for Expressive Speech-to-Speech Translation</a>
+        <paper>
+          <authors>Wen-Chin Huang, Benjamin Peloquin, Justine Kao, Changhan Wang, Hongyu Gong, <u>Elizabeth Salesky</u>, Yossi Adi, Ann Lee, Peng-Jen Chen</authors>
+          <venue>ICASSP 2023</venue> · 
+          <ul>
+            <a target="_blank" href="https://arxiv.org/abs/2301.10606"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://facebookresearch.github.io/speech_translation/cascade_expressive_s2st/"><span class="badge badge-pill badge-video">demo</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2207.06991">Language Modelling with Pixels</a>
         <paper>
           <authors>Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, <u>Elizabeth Salesky</u>, Miryam de Lhoneux, Desmond Elliott</authors>
@@ -49,19 +62,6 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
             <a target="_blank" href="https://arxiv.org/abs/2207.06991"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://github.com/xplip/pixel"><span class="badge badge-pill badge-code">code</span></a> · 
             <a target="_blank" href="https://huggingface.co/spaces/Team-PIXEL/PIXEL"><span class="badge badge-pill badge-video">demo</span></a>
-          </ul>
-        </paper>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2301.10606">A Holistic Cascade System, Benchmark, and Human Evaluation Protocol for Expressive Speech-to-Speech Translation</a>
-        <paper>
-          <authors>Wen-Chin Huang, Benjamin Peloquin, Justine Kao, Changhan Wang, Hongyu Gong, <u>Elizabeth Salesky</u>, Yossi Adi, Ann Lee, Peng-Jen Chen</authors>
-          <venue>arXiv preprint</venue> · 
-          <ul>
-            <a target="_blank" href="https://arxiv.org/abs/2301.10606"><span class="badge badge-pill badge-paper">pdf</span></a> · 
-            <a target="_blank" href="https://facebookresearch.github.io/speech_translation/cascade_expressive_s2st/"><span class="badge badge-pill badge-video">demo</span></a>
           </ul>
         </paper>
       </td>

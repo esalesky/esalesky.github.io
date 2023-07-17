@@ -8,13 +8,12 @@ layout: default
 Hi! I'm Liz Salesky ([/lɪz səˈlɛski/](http://ipa-reader.xyz/?text=l%C9%AAz%20s%C9%99%CB%88l%C9%9Bski)), a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), advised by [Matt Post](https://post3.net/) and [Philipp Koehn](https://www.cs.jhu.edu/~phi/).  
 I am very lucky to be supported by the [Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2022). 
 
-My research primarily focuses on machine translation and multilinguality, including alternatives to traditional tokenization and how multimodal representations can overcome vocabulary obstacles. 
-I am also interested in improving NLP and speech models' data-efficiency and robustness to variation within and across languages and data sources. 
+My research primarily focuses on language representations for machine translation and multilinguality, including alternatives to traditional tokenization, multimodal representation learning, and how to create more data-efficient and robust models. 
+I am also interested in studying and modeling variation within and across languages. 
 
-Previously, I did my Masters at the [Language Technologies Institute](https://www.lti.cs.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) advised by [Alex Waibel](https://www.cs.cmu.edu/~ahw/), often collaborating with [Alan W Black](https://www.cs.cmu.edu/~awb/) and the lab at [KIT](http://isl.anthropomatik.kit.edu/english/), where I worked in the summers. 
-Before that, I worked at [MIT Lincoln Laboratory](https://www.ll.mit.edu/) from 2012-2017, focused on machine translation and language learning applications. 
-I graduated from Dartmouth College in 2012, where I majored in Linguistics and Math. 
-My [thesis](http://linguistics.dartmouth.edu/undergraduate/honors/past-honors-theses) with Ann Irvine compared the linguistic validity of unsupervised segmentation methods. 
+Previously, I received my MSc from the [CMU LTI](https://www.lti.cs.cmu.edu/) advised by [Alex Waibel](https://www.cs.cmu.edu/~ahw/), collaborating often with the [KIT ISL lab](http://isl.anthropomatik.kit.edu/english/) and [Alan W Black](https://www.cs.cmu.edu/~awb/). 
+Before that, I worked at [MIT Lincoln Laboratory](https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences/artificial-intelligence-technology-and-systems) from 2012-2017, focused on machine translation and language learning applications. 
+I graduated from [Dartmouth College](http://linguistics.dartmouth.edu/undergraduate/honors/past-honors-theses) in 2012, where I majored in Linguistics and Math. 
 
 When not at my computer, I like to [learn languages](https://www.duolingo.com/profile/esalesky), run, and bike to ice cream!
 
@@ -39,6 +38,33 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://aclanthology.org/2023.iwslt-1.2/">Evaluating multilingual speech translation under realistic conditions with resegmentation and terminology</a>
+        <paper>
+          <authors><u>Elizabeth Salesky</u>, Kareem Darwish, Mohamed Al-Badrashiny, Mona Diab, Jan Niehues</authors>
+          <venue>IWSLT 2023</venue> · 
+          <ul>
+            <a target="_blank" href="https://arxiv.org/abs/2301.10606"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://aclanthology.org/2023.iwslt-1.2/"><span class="badge badge-pill badge-data">ACL 60-60 data</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" class="shared-task" href="https://aclanthology.org/2023.iwslt-1.1/">Findings of the IWSLT 2023 Evaluation Campaign</a>
+        <paper>
+          <authors>Milind Agarwal, ..., <u>Elizabeth Salesky</u>, ..., + many more</authors>
+          <venue>IWSLT 2023</venue> · 
+          <ul>
+            <a target="_blank" href="https://aclanthology.org/2023.iwslt-1.1/"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://iwslt.org/2023/#shared-tasks"><span class="badge badge-pill badge-data">data</span></a> · 
+            <a target="_blank" href="https://iwslt.org/2023/#shared-tasks"><span class="badge badge-pill badge-site">site</span></a>      
+          </ul>
+        </paper>
+      </td>
+    </tr>
     <tr>
       <td>
         <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2301.10606">A Holistic Cascade System, Benchmark, and Human Evaluation Protocol for Expressive Speech-to-Speech Translation</a>
@@ -119,7 +145,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
       <td>
         <a target="_blank" class="shared-task" href="https://aclanthology.org/2022.iwslt-1.10/">Findings of the IWSLT 2022 Evaluation Campaign</a>
         <paper>
-          <authors>Antonios Anastasopoulos, Loïc Barrault, Luisa Bentivogli, Marcely Zanon Boito, Ondřej Bojar, Roldano Cattoni, Anna Currey, Georgiana Dinu, Kevin Duh, Maha Elbayad, Clara Emmanuel, Yannick Estève, Marcello Federico, Christian Federmann, Souhir Gahbiche, Hongyu Gong, Roman Grundkiewicz, Barry Haddow, Benjamin Hsu, Dávid Javorský, Vĕra Kloudová, Surafel Lakew, Xutai Ma, Prashant Mathur, Paul McNamee, Kenton Murray, Maria Nǎdejde, Satoshi Nakamura, Matteo Negri, Jan Niehues, Xing Niu, John Ortega, Juan Pino, <u>Elizabeth Salesky</u>, Jiatong Shi, Matthias Sperber, Sebastian Stüker, Katsuhito Sudoh, Marco Turchi, Yogesh Virkar, Alexander Waibel, Changhan Wang, Shinji Watanabe</authors>
+          <authors>Antonios Anastasopoulos, ..., <u>Elizabeth Salesky</u>, ..., + many more</authors>
           <venue>IWSLT 2022</venue> · 
           <ul>
             <a target="_blank" href="https://aclanthology.org/2022.iwslt-1.10/"><span class="badge badge-pill badge-paper">pdf</span></a> · 

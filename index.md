@@ -11,7 +11,7 @@ I am very lucky to be supported by the [Apple Scholars in AI/ML PhD fellowship](
 My research primarily focuses on language representations for machine translation and multilinguality, including alternatives to traditional tokenization, multimodal representation learning, and how to create more data-efficient and robust models. 
 I am also interested in studying and modeling variation within and across languages. 
 
-Previously, I received my MSc from the [CMU LTI](https://www.lti.cs.cmu.edu/) advised by [Alex Waibel](https://www.cs.cmu.edu/~ahw/), collaborating often with the [KIT ISL lab](http://isl.anthropomatik.kit.edu/english/) and [Alan W Black](https://www.cs.cmu.edu/~awb/). 
+Previously, I received my MSc from [CMU](https://www.lti.cs.cmu.edu/) in 2019 advised by [Alex Waibel](https://www.cs.cmu.edu/~ahw/), collaborating often with the [KIT ISL lab](http://isl.anthropomatik.kit.edu/english/) and [Alan W Black](https://www.cs.cmu.edu/~awb/). 
 Before that, I worked at [MIT Lincoln Laboratory](https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences/artificial-intelligence-technology-and-systems) from 2012-2017, focused on machine translation and language learning applications. 
 I graduated from [Dartmouth College](http://linguistics.dartmouth.edu/undergraduate/honors/past-honors-theses) in 2012, where I majored in Linguistics and Math. 
 
@@ -83,7 +83,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
         <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2207.06991">Language Modelling with Pixels</a>
         <paper>
           <authors>Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, <u>Elizabeth Salesky</u>, Miryam de Lhoneux, Desmond Elliott</authors>
-          <venue>ICLR 2023</venue> · 
+          <venue>ICLR 2023 · <i>notable top-5%</i></venue> · 
           <ul>
             <a target="_blank" href="https://arxiv.org/abs/2207.06991"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://github.com/xplip/pixel"><span class="badge badge-pill badge-code">code</span></a> · 
@@ -196,7 +196,8 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <ul>
             <a target="_blank" href="/assets/pdf/visrep_2021.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="http://www.cs.jhu.edu/~kevinduh/a/multitarget-tedtalks/"><span class="badge badge-pill badge-data">data</span></a> · 
-            <a target="_blank" href="https://github.com/esalesky/visrep"><span class="badge badge-pill badge-code">code</span></a>
+            <a target="_blank" href="https://github.com/esalesky/visrep"><span class="badge badge-pill badge-code">code</span></a> · 
+            <a target="_blank" href="https://aclanthology.org/2021.emnlp-main.576.mp4"><span class="badge badge-pill badge-video">video</span></a>
           </ul>
         </paper>
       </td>
@@ -428,7 +429,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
         <a target="_blank" class="shared-task" href="/assets/pdf/sigmorphon19_cmu-01.pdf">CMU-01 at the SIGMORPHON 2019 Shared Task on Crosslinguality and Context in Morphology</a>
         <paper>
           <authors>Aditi Chaudhary, <u>Elizabeth Salesky</u>, Gayatri Bhat, David R. Mortensen, Jaime G. Carbonell, Yulia Tsvetkov</authors>
-          <venue>SIGMORPHON 2019 <i>(Interpretability Prize)</i></venue> · 
+          <venue>SIGMORPHON 2019 · <i>Interpretability Prize</i></venue> · 
           <ul>
             <a target="_blank" href="/assets/pdf/"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://github.com/sigmorphon/2019"><span class="badge badge-pill badge-data">data</span></a> · 

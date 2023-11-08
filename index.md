@@ -40,6 +40,33 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
   <tbody>
     <tr>
       <td>
+        <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2305.14280">Multilingual Pixel Representations for Translation and Effective Cross-lingual Transfer</a>
+        <paper>
+          <authors><u>Elizabeth Salesky</u>, Neha Verma, Philipp Koehn, Matt Post</authors>
+          <venue>EMNLP 2023</venue> · 
+          <ul>
+            <a target="_blank" href="https://arxiv.org/abs/2305.14280"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://github.com/esalesky/visrep/tree/multi"><span class="badge badge-pill badge-code">code</span></a> · 
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2311.00522">Text Rendering Strategies for Pixel Language Models</a>
+        <paper>
+          <authors>Jonas F. Lotz, <u>Elizabeth Salesky</u>, Phillip Rust, Desmond Elliott</authors>
+          <venue>EMNLP 2023</venue> · 
+          <ul>
+            <a target="_blank" href="https://arxiv.org/abs/2311.00522"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://github.com/xplip/pixel/tree/TextRenderingStrategies"><span class="badge badge-pill badge-code">code</span></a> · 
+            <a target="_blank" href="https://huggingface.co/Team-PIXEL"><span class="badge badge-pill badge-code">models</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a target="_blank" class="research-paper" href="https://aclanthology.org/2023.iwslt-1.2/">Evaluating multilingual speech translation under realistic conditions with resegmentation and terminology</a>
         <paper>
           <authors><u>Elizabeth Salesky</u>, Kareem Darwish, Mohamed Al-Badrashiny, Mona Diab, Jan Niehues</authors>

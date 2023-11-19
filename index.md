@@ -47,6 +47,8 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <ul>
             <a target="_blank" href="https://arxiv.org/abs/2305.14280"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://github.com/esalesky/visrep/tree/multi"><span class="badge badge-pill badge-code">code</span></a> · 
+            <a target="_blank" href="https://zenodo.org/records/10086264"><span class="badge badge-pill badge-data">models/data</span></a> · 
+            <a target="_blank" href="https://www.youtube.com/watch?v=H-R9ADyF2U0"><span class="badge badge-pill badge-video">video</span></a>
           </ul>
         </paper>
       </td>
@@ -60,7 +62,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <ul>
             <a target="_blank" href="https://arxiv.org/abs/2311.00522"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://github.com/xplip/pixel/tree/TextRenderingStrategies"><span class="badge badge-pill badge-code">code</span></a> · 
-            <a target="_blank" href="https://huggingface.co/Team-PIXEL"><span class="badge badge-pill badge-code">models</span></a>
+            <a target="_blank" href="https://huggingface.co/Team-PIXEL"><span class="badge badge-pill badge-data">models</span></a>
           </ul>
         </paper>
       </td>
@@ -73,7 +75,8 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <venue>IWSLT 2023</venue> · 
           <ul>
             <a target="_blank" href="https://arxiv.org/abs/2301.10606"><span class="badge badge-pill badge-paper">pdf</span></a> · 
-            <a target="_blank" href="https://aclanthology.org/2023.iwslt-1.2/"><span class="badge badge-pill badge-data">ACL 60-60 data</span></a>
+            <a target="_blank" href="https://aclanthology.org/2023.iwslt-1.2/"><span class="badge badge-pill badge-data">ACL 60-60 data</span></a> · 
+            <a target="_blank" href="https://www.youtube.com/watch?v=F0Hrhu9-E-M"><span class="badge badge-pill badge-video">video</span></a>
           </ul>
         </paper>
       </td>

@@ -192,10 +192,14 @@ paper venue {
     padding-right: 3px;    
 }
 
-paper venue i {
+.badge-award {
     color: #6653ff;
     font-weight: normal;
     font-style: italic;
+    font-family: 'Noto Sans', sans-serif;
+}
+.badge-award:hover {
+    background-color: transparent !important;
 }
 
 .shared-task {

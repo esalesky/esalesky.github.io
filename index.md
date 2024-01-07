@@ -47,8 +47,9 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <ul> · 
             <a target="_blank" href="https://arxiv.org/abs/2305.14280"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://github.com/esalesky/visrep/tree/multi"><span class="badge badge-pill badge-code">code</span></a> · 
-            <a target="_blank" href="https://zenodo.org/records/10086264"><span class="badge badge-pill badge-data">models/data</span></a> · 
-            <a target="_blank" href="https://www.youtube.com/watch?v=H-R9ADyF2U0"><span class="badge badge-pill badge-video">video</span></a>
+            <a target="_blank" href="https://zenodo.org/records/10086264"><span class="badge badge-pill badge-data">data</span></a> · 
+            <a target="_blank" href="https://zenodo.org/records/10086264"><span class="badge badge-pill badge-data">models</span></a> · 
+            <a target="_blank" href="https://www.youtube.com/watch?v=H-R9ADyF2U0"><span class="badge badge-pill badge-video">presentation</span></a>
           </ul>
         </paper>
       </td>
@@ -75,8 +76,9 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <venue>IWSLT 2023</venue>
           <ul> · 
             <a target="_blank" href="https://arxiv.org/abs/2301.10606"><span class="badge badge-pill badge-paper">pdf</span></a> · 
-            <a target="_blank" href="https://aclanthology.org/2023.iwslt-1.2/"><span class="badge badge-pill badge-data">ACL 60-60 data</span></a> · 
-            <a target="_blank" href="https://www.youtube.com/watch?v=F0Hrhu9-E-M"><span class="badge badge-pill badge-video">video</span></a>
+            <a target="_blank" href="https://aclanthology.org/2023.iwslt-1.2/"><span class="badge badge-pill badge-data">new ACL 60-60 data</span></a> · 
+            <a target="_blank" href="https://www.youtube.com/watch?v=F0Hrhu9-E-M"><span class="badge badge-pill badge-video">presentation</span></a> · 
+            <a target="_blank" href="https://lt2srv.iar.kit.edu/archive/%252F%252Fconferences%252FACL%252F2022.acl-long"><span class="badge badge-pill badge-video">demo</span></a>
           </ul>
         </paper>
       </td>
@@ -103,7 +105,8 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <venue>ICASSP 2023</venue>
           <ul> · 
             <a target="_blank" href="https://arxiv.org/abs/2301.10606"><span class="badge badge-pill badge-paper">pdf</span></a> · 
-            <a target="_blank" href="https://facebookresearch.github.io/speech_translation/cascade_expressive_s2st/"><span class="badge badge-pill badge-video">demo</span></a>
+            <a target="_blank" href="https://facebookresearch.github.io/speech_translation/cascade_expressive_s2st/"><span class="badge badge-pill badge-video">demo</span></a> · 
+            <a target="_blank" href="https://facebookresearch.github.io/speech_translation/cascade_expressive_s2st/"><span class="badge badge-pill badge-site">website</span></a>
           </ul>
         </paper>
       </td>
@@ -113,10 +116,13 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
         <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2207.06991">Language Modelling with Pixels</a>
         <paper>
           <authors>Phillip Rust, Jonas F. Lotz, Emanuele Bugliarello, <u>Elizabeth Salesky</u>, Miryam de Lhoneux, Desmond Elliott</authors>
-          <venue>ICLR 2023 · <i>notable top-5%</i></venue>
+          <venue>ICLR 2023</venue>
           <ul> · 
+            <span class="badge badge-pill badge-award">notable top-5%</span> · 
             <a target="_blank" href="https://arxiv.org/abs/2207.06991"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://github.com/xplip/pixel"><span class="badge badge-pill badge-code">code</span></a> · 
+            <a target="_blank" href="https://huggingface.co/Team-PIXEL"><span class="badge badge-pill badge-data">data</span></a> · 
+            <a target="_blank" href="https://huggingface.co/Team-PIXEL"><span class="badge badge-pill badge-data">models</span></a> · 
             <a target="_blank" href="https://huggingface.co/spaces/Team-PIXEL/PIXEL"><span class="badge badge-pill badge-video">demo</span></a>
           </ul>
         </paper>
@@ -137,7 +143,9 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <venue>arXiv preprint</venue>
           <ul> · 
             <a target="_blank" href="https://arxiv.org/abs/2211.05100"><span class="badge badge-pill badge-paper">pdf</span></a> · 
-            <a target="_blank" href="https://hf.co/bigscience/bloom"><span class="badge badge-pill badge-code">code</span></a>
+            <a target="_blank" href="https://hf.co/bigscience/bloom"><span class="badge badge-pill badge-code">code</span></a> · 
+            <a target="_blank" href="https://hf.co/bigscience/bloom"><span class="badge badge-pill badge-data">data</span></a> · 
+            <a target="_blank" href="https://hf.co/bigscience/bloom"><span class="badge badge-pill badge-data">models</span></a>
           </ul>
         </paper>
       </td>
@@ -227,7 +235,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
             <a target="_blank" href="/assets/pdf/visrep_2021.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="http://www.cs.jhu.edu/~kevinduh/a/multitarget-tedtalks/"><span class="badge badge-pill badge-data">data</span></a> · 
             <a target="_blank" href="https://github.com/esalesky/visrep"><span class="badge badge-pill badge-code">code</span></a> · 
-            <a target="_blank" href="https://aclanthology.org/2021.emnlp-main.576.mp4"><span class="badge badge-pill badge-video">video</span></a>
+            <a target="_blank" href="https://aclanthology.org/2021.emnlp-main.576.mp4"><span class="badge badge-pill badge-video">presentation</span></a>
           </ul>
         </paper>
       </td>
@@ -255,9 +263,10 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <ul> · 
             <a target="_blank" href="/assets/pdf/mtedx_interspeech2021.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="http://openslr.org/100"><span class="badge badge-pill badge-data">data</span></a> · 
-            <a target="_blank" href="https://github.com/m-wiesner/tedx"><span class="badge badge-pill badge-code">kaldi</span></a> · 
-            <a target="_blank" href="https://github.com/pytorch/fairseq/blob/master/examples/speech_to_text/docs/mtedx_example.md"><span class="badge badge-pill badge-code">fairseq</span></a> · 
-            <a target="_blank" href="https://github.com/esalesky/vecalign"><span class="badge badge-pill badge-code">vecalign</span></a>
+            <a target="_blank" href="https://github.com/m-wiesner/tedx"><span class="badge badge-pill badge-code">code: kaldi</span></a> · 
+            <a target="_blank" href="https://github.com/pytorch/fairseq/blob/master/examples/speech_to_text/docs/mtedx_example.md"><span class="badge badge-pill badge-code">code: fairseq</span></a> · 
+            <a target="_blank" href="https://github.com/esalesky/vecalign"><span class="badge badge-pill badge-code">code: vecalign</span></a> · 
+            <a target="_blank" href="http://openslr.org/100"><span class="badge badge-pill badge-site">website</span></a>
           </ul>
          </paper>
       </td>
@@ -286,7 +295,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
             <a target="_blank" href="/assets/pdf/sigtyp_st2021.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/esalesk1_jh_edu/El9fnVK7A9BJkiAxi8iuZoQBfUi8jcAj28m0rcTmkMj2Rw?e=bXngzb"><span class="badge badge-pill badge-data">data</span></a> · 
             <a target="_blank" href="https://sigtyp.github.io/st2021.html"><span class="badge badge-pill badge-site">website</span></a> ·
-            <a target="_blank" href="https://youtu.be/Cvz6c-f9B_4"><span class="badge badge-pill badge-video">video</span></a>
+            <a target="_blank" href="https://youtu.be/Cvz6c-f9B_4"><span class="badge badge-pill badge-video">presentation</span></a>
           </ul>
         </paper>
       </td>
@@ -321,7 +330,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <ul> · 
             <a target="_blank" href="/assets/pdf/interspeech20_relativepos.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://github.com/quanpn90/NMTGMinor"><span class="badge badge-pill badge-code">code</span></a> · 
-            <a target="_blank" href="http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=243&id=313"><span class="badge badge-pill badge-video">video</span></a>
+            <a target="_blank" href="http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=243&id=313"><span class="badge badge-pill badge-video">presentation</span></a>
           </ul>
         </paper>
       </td>
@@ -334,11 +343,11 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <venue>ACL 2020</venue>
           <ul> · 
             <a target="_blank" href="/assets/pdf/acl20_voxclamantis.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
-            <a target="_blank" href="https://drive.google.com/drive/folders/10jsQgT5anb-E97DZMbGJjwPZ-Ux91xMM"><span class="badge badge-pill badge-data">data</span></a> · 
-            <a target="_blank" href="https://osf.io/bc2ns/?view_only=ff23dd6bf3324b11b834ea4bd8d7e6c9"><span class="badge badge-pill badge-data">OSF</span></a> · 
+            <a target="_blank" href="https://drive.google.com/drive/folders/10jsQgT5anb-E97DZMbGJjwPZ-Ux91xMM"><span class="badge badge-pill badge-data">data (gDrive)</span></a> · 
+            <a target="_blank" href="https://osf.io/bc2ns/?view_only=ff23dd6bf3324b11b834ea4bd8d7e6c9"><span class="badge badge-pill badge-data">data (OSF)</span></a> · 
             <a target="_blank" href="https://voxclamantisproject.github.io/tools.html"><span class="badge badge-pill badge-code">code</span></a> · 
+            <a target="_blank" href="https://virtual.acl2020.org/paper_main.415.html"><span class="badge badge-pill badge-video">presentation</span></a> · 
             <a target="_blank" href="/assets/pdf/acl20_vox_slides.pdf"><span class="badge badge-pill badge-slides">slides</span></a> · 
-            <a target="_blank" href="https://virtual.acl2020.org/paper_main.415.html"><span class="badge badge-pill badge-video">video</span></a> · 
             <a target="_blank" href="https://voxclamantisproject.github.io/"><span class="badge badge-pill badge-site">website</span></a>
           </ul>
         </paper>
@@ -353,8 +362,8 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <ul> · 
             <a target="_blank" href="/assets/pdf/acl20_GER.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://github.com/rycolab/entropyRegularization"><span class="badge badge-pill badge-code">code</span></a> · 
-            <a target="_blank" href="/assets/pdf/acl20_ger_slides.pdf"><span class="badge badge-pill badge-slides">slides</span></a> · 
-            <a target="_blank" href="https://virtual.acl2020.org/paper_main.615.html"><span class="badge badge-pill badge-video">video</span></a>
+            <a target="_blank" href="https://virtual.acl2020.org/paper_main.615.html"><span class="badge badge-pill badge-video">presentation</span></a> · 
+            <a target="_blank" href="/assets/pdf/acl20_ger_slides.pdf"><span class="badge badge-pill badge-slides">slides</span></a>
           </ul>
         </paper>
       </td>
@@ -369,8 +378,8 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
             <a target="_blank" href="/assets/pdf/acl20_phones4st.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://joshua.incubator.apache.org/data/fisher-callhome-corpus/"><span class="badge badge-pill badge-data">data</span></a> · 
             <a target="_blank" href="https://github.com/esalesky/xnmt-devel"><span class="badge badge-pill badge-code">code</span></a> · 
-            <a target="_blank" href="/assets/pdf/acl20_phones4st_slides.pdf"><span class="badge badge-pill badge-slides">slides</span></a> · 
-            <a target="_blank" href="https://virtual.acl2020.org/paper_main.217.html"><span class="badge badge-pill badge-video">video</span></a>
+            <a target="_blank" href="https://virtual.acl2020.org/paper_main.217.html"><span class="badge badge-pill badge-video">presentation</span></a> ·
+            <a target="_blank" href="/assets/pdf/acl20_phones4st_slides.pdf"><span class="badge badge-pill badge-slides">slides</span></a>
           </ul>
         </paper>
       </td>
@@ -400,7 +409,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
             <a target="_blank" href="/assets/pdf/2020.sigmorphon-task0.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://github.com/sigmorphon2020/data"><span class="badge badge-pill badge-data">data</span></a> · 
             <a target="_blank" href="https://github.com/sigmorphon2020/baselines"><span class="badge badge-pill badge-code">code</span></a> · 
-            <a target="_blank" href="https://slideslive.com/38929870/sigmorphon-2020-shared-task-0-typologically-diverse-morphological-inflection"><span class="badge badge-pill badge-video">video</span></a> · 
+            <a target="_blank" href="https://slideslive.com/38929870/sigmorphon-2020-shared-task-0-typologically-diverse-morphological-inflection"><span class="badge badge-pill badge-video">presentation</span></a> · 
             <a target="_blank" href="https://sigmorphon.github.io/sharedtasks/2020/task0"><span class="badge badge-pill badge-site">website</span></a>
           </ul>
         </paper>
@@ -449,7 +458,7 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
             <a target="_blank" href="/assets/pdf/acl19_exploring.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://joshua.incubator.apache.org/data/fisher-callhome-corpus/"><span class="badge badge-pill badge-data">data</span></a> · 
             <a target="_blank" href="https://github.com/esalesky/xnmt-devel"><span class="badge badge-pill badge-code">code</span></a> · 
-            <a target="_blank" href="https://vimeo.com/384515395"><span class="badge badge-pill badge-video">video</span></a>
+            <a target="_blank" href="https://vimeo.com/384515395"><span class="badge badge-pill badge-video">presentation</span></a>
           </ul>
         </paper>
       </td>
@@ -459,8 +468,9 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
         <a target="_blank" class="shared-task" href="/assets/pdf/sigmorphon19_cmu-01.pdf">CMU-01 at the SIGMORPHON 2019 Shared Task on Crosslinguality and Context in Morphology</a>
         <paper>
           <authors>Aditi Chaudhary, <u>Elizabeth Salesky</u>, Gayatri Bhat, David R. Mortensen, Jaime G. Carbonell, Yulia Tsvetkov</authors>
-          <venue>SIGMORPHON 2019 · <i>Interpretability Prize</i></venue>
+          <venue>SIGMORPHON 2019</venue>
           <ul> · 
+            <span class="badge badge-pill badge-award">Interpretability Prize</span> · 
             <a target="_blank" href="/assets/pdf/"><span class="badge badge-pill badge-paper">pdf</span></a> · 
             <a target="_blank" href="https://github.com/sigmorphon/2019"><span class="badge badge-pill badge-data">data</span></a> · 
             <a target="_blank" href="https://github.com/Aditi138/MorphologicalAnalysis"><span class="badge badge-pill badge-code">code</span></a> · 
@@ -478,8 +488,8 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <venue>NAACL 2019</venue>
           <ul> · 
             <a target="_blank" href="/assets/pdf/naacl19_fluent.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
-            <a target="_blank" href="https://joshua.incubator.apache.org/data/fisher-callhome-corpus/"><span class="badge badge-pill badge-data">data</span></a> · 
-            <a target="_blank" href="https://github.com/isl-mt/fluent-fisher"><span class="badge badge-pill badge-data">fluent data</span></a> · 
+            <a target="_blank" href="https://joshua.incubator.apache.org/data/fisher-callhome-corpus/"><span class="badge badge-pill badge-data">original data</span></a> · 
+            <a target="_blank" href="https://github.com/isl-mt/fluent-fisher"><span class="badge badge-pill badge-data">new fluent data</span></a> · 
             <a target="_blank" href="https://github.com/esalesky/fisher-mapping"><span class="badge badge-pill badge-code">code</span></a> · 
             <a target="_blank" href="/assets/pdf/naacl19_poster.pdf"><span class="badge badge-pill badge-slides">poster</span></a>
           </ul>
@@ -501,8 +511,8 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <venue>SLT 2018</venue>
           <ul> · 
             <a target="_blank" href="/assets/pdf/slt18_towards.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
-            <a target="_blank" href="https://joshua.incubator.apache.org/data/fisher-callhome-corpus/"><span class="badge badge-pill badge-data">data</span></a> · 
-            <a target="_blank" href="https://github.com/isl-mt/fluent-fisher"><span class="badge badge-pill badge-data">fluent data</span></a> · 
+            <a target="_blank" href="https://joshua.incubator.apache.org/data/fisher-callhome-corpus/"><span class="badge badge-pill badge-data">original data</span></a> · 
+            <a target="_blank" href="https://github.com/isl-mt/fluent-fisher"><span class="badge badge-pill badge-data">new fluent data</span></a> · 
             <a target="_blank" href="https://github.com/esalesky/fisher-mapping"><span class="badge badge-pill badge-code">code</span></a> · 
             <a target="_blank" href="/assets/pdf/slt18_poster.pdf"><span class="badge badge-pill badge-slides">poster</span></a>
           </ul>
@@ -516,7 +526,8 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
           <authors>Florian Dessloch, Thanh-Le Ha, Markus Müller, Jan Niehues, Thai-Son Nguyen, Ngoc-Quan Pham, <u>Elizabeth Salesky</u>, Matthias Sperber, Sebastian Stüker, Thomas Zenkel, Alex Waibel</authors>
           <venue>COLING 2018</venue>
           <ul> · 
-            <a target="_blank" href="/assets/pdf/coling18_lt.pdf"><span class="badge badge-pill badge-paper">pdf</span></a>
+            <a target="_blank" href="/assets/pdf/coling18_lt.pdf"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://lt2srv.iar.kit.edu/"><span class="badge badge-pill badge-video">demo</span></a>            
           </ul>
         </paper>
       </td>

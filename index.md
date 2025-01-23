@@ -5,15 +5,13 @@ layout: default
 
 ### About Me
 
-Hi! I'm Liz Salesky (<i class="fas fa-volume"></i> [/lɪz səˈlɛski/](http://ipa-reader.xyz/?text=l%C9%AAz%20s%C9%99%CB%88l%C9%9Bski)), a PhD student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), advised by [Matt Post](https://post3.net/) and [Philipp Koehn](https://www.cs.jhu.edu/~phi/).  
-I am very lucky to be supported by the [Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2022). 
+Hi! I'm Liz Salesky (<i class="fas fa-volume"></i> [/lɪz səˈlɛski/](https://ipa-reader.com/?text=l%C9%AAz%20s%C9%99%CB%88l%C9%9Bski)), a Research Scientist at Google DeepMind. 
+I received my PhD from the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), where I was advised by [Matt Post](https://post3.net/) and [Philipp Koehn](https://www.cs.jhu.edu/~phi/) and supported by the [Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2022). 
+My thesis focused on adaptive and robust open-vocabulary language processing. 
 
-My research primarily focuses on language representations for machine translation and multilinguality, including alternatives to traditional tokenization, multimodal representation learning, and how to create more data-efficient and robust models. 
-I am also interested in studying and modeling variation within and across languages. 
-
-Previously, I received my MSc from [CMU](https://www.lti.cs.cmu.edu/) in 2019 advised by [Alex Waibel](https://www.cs.cmu.edu/~ahw/), collaborating often with the [KIT ISL lab](http://isl.anthropomatik.kit.edu/english/) and [Alan W Black](https://www.cs.cmu.edu/~awb/). 
-Before that, I worked at [MIT Lincoln Laboratory](https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences/artificial-intelligence-technology-and-systems) from 2012-2017, focused on machine translation and language learning applications. 
-I graduated from [Dartmouth College](http://linguistics.dartmouth.edu/undergraduate/honors/past-honors-theses) in 2012, where I majored in Linguistics and Math. 
+Previously, I received my MSc from [CMU](https://www.lti.cs.cmu.edu/), where I was advised by [Alex Waibel](https://www.cs.cmu.edu/~ahw/) and worked with the [KIT Interactive Systems lab](https://isl.iar.kit.edu/english/index.php) and [Alan W Black](https://www.cs.cmu.edu/~awb/) on speech translation and linguistic diversity. 
+Before that, I worked at [MIT Lincoln Laboratory](https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences/artificial-intelligence-technology-and-systems), focused on machine translation and language learning applications. 
+I graduated from [Dartmouth College](http://linguistics.dartmouth.edu/undergraduate/honors/past-honors-theses), where I majored in Linguistics and Math. 
 
 When not at my computer, I like to [learn languages](https://www.duolingo.com/profile/esalesky), run, and bike to ice cream!
 
@@ -32,6 +30,65 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
 ### Publications
 
 <table>
+  <thead>
+    <tr>
+      <th>2024</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://aclanthology.org/2024.wmt-1.115/">Benchmarking Visually-Situated Translation of Text in Natural Images</a>
+        <paper>
+          <authors><u>Elizabeth Salesky</u>, Philipp Koehn, Matt Post</authors>
+          <venue>WMT 2024</venue>
+          <ul> · 
+            <a target="_blank" href="https://aclanthology.org/2024.wmt-1.115/"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://vistra-benchmark.github.io/"><span class="badge badge-pill badge-site">website</span></a> · 
+            <a target="_blank" href="https://huggingface.co/datasets/esalesky/vistra-benchmark"><span class="badge badge-pill badge-data">data</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://jscholarship.library.jhu.edu/items/b72d3f93-b2e4-4d99-be55-3bed3b0deb1b">Overcoming Vocabulary Challenges in Natural Language Processing</a>
+        <paper>
+          <authors><u>Elizabeth Salesky</u></authors>
+          <venue>PhD Thesis</venue>
+          <ul> · 
+            <a target="_blank" href="https://jscholarship.library.jhu.edu/items/b72d3f93-b2e4-4d99-be55-3bed3b0deb1b"><span class="badge badge-pill badge-paper">pdf</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://aclanthology.org/2024.iwslt-1.1/">Findings of the IWSLT 2024 Evaluation Campaign</a>
+        <paper>
+          <authors>Ibrahim Said Ahmad, ..., <u>Elizabeth Salesky</u>, ..., + many more</authors>
+          <venue>IWSLT 2024</venue>
+          <ul> · 
+            <a target="_blank" href="https://aclanthology.org/2024.iwslt-1.1/"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://iwslt.org/2024/"><span class="badge badge-pill badge-site">website</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2406.03881">Evaluating the IWSLT2023 Speech Translation Tasks: Human Annotations, Automatic Metrics, and Segmentation</a>
+        <paper>
+          <authors>Matthias Sperber, Ondřej Bojar, Barry Haddow, Dávid Javorský, Xutai Ma, Matteo Negri, Jan Niehues, Peter Polák, <u>Elizabeth Salesky</u>, Katsuhito Sudoh, Marco Turchi</authors>
+          <venue>LREC-COLING 2024</venue>
+          <ul> · 
+            <a target="_blank" href="https://arxiv.org/abs/2406.03881"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://huggingface.co/datasets/IWSLT/da2023"><span class="badge badge-pill badge-data">data</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+  </tbody>
   <thead>
     <tr>
       <th>2023</th>

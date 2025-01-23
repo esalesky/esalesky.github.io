@@ -255,6 +255,7 @@ img {
 }
 
 .interest-list {
+    display: inline-block; 
     text-align: left;
     margin: 0 auto;
     position: relative;
@@ -273,7 +274,12 @@ img {
     padding-left: 5px;
     padding-right: 2px;
 }
-    
+
+.last-updated {
+    color: #6653ff;
+    font-style: italic;
+}
+ 
 .badge {
     display: inline-block;
     padding: 0.4em 1.2em;

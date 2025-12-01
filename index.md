@@ -6,7 +6,7 @@ layout: default
 ### About Me
 
 Hi! I'm Liz Salesky (<i class="fas fa-volume"></i> [/lɪz səˈlɛski/](https://ipa-reader.com/?text=l%C9%AAz%20s%C9%99%CB%88l%C9%9Bski)), a Research Scientist at Google DeepMind. 
-I received my PhD from the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), where I was advised by [Matt Post](https://post3.net/) and [Philipp Koehn](https://www.cs.jhu.edu/~phi/) and supported by the [Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2022). 
+I received my PhD from the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), where I was advised by [Matt Post](https://waypost.net/) and [Philipp Koehn](https://www.cs.jhu.edu/~phi/) and supported by the [Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2022). 
 My thesis focused on adaptive and robust open-vocabulary language processing. 
 
 Previously, I received my MSc from [CMU](https://www.lti.cs.cmu.edu/), where I was advised by [Alex Waibel](https://www.cs.cmu.edu/~ahw/) and worked with the [KIT Interactive Systems lab](https://isl.iar.kit.edu/english/index.php) and [Alan W Black](https://www.cs.cmu.edu/~awb/) on speech translation and linguistic diversity. 

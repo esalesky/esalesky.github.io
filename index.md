@@ -32,6 +32,51 @@ When not at my computer, I like to [learn languages](https://www.duolingo.com/pr
 <table>
   <thead>
     <tr>
+      <th>2025</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://arxiv.org/abs/2507.06261">Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities</a>
+        <paper>
+          <authors>Gemini Team, Google: ..., <u>Elizabeth Salesky</u>, ..., + many more</authors>
+          <venue>arXiv</venue>
+          <ul> · 
+            <a target="_blank" href="https://arxiv.org/abs/2507.06261"><span class="badge badge-pill badge-paper">pdf</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://aclanthology.org/2025.findings-acl.634/">WMT24++: Expanding the Language Coverage of WMT24 to 55 Languages & Dialects</a>
+        <paper>
+          <authors>Daniel Deutsch, Eleftheria Briakou, Isaac Rayburn Caswell, Mara Finkelstein, Rebecca Galor, Juraj Juraska, Geza Kovacs, Alison Lui, Ricardo Rei, Jason Riesa, Shruti Rijhwani, Parker Riley, <u>Elizabeth Salesky</u>, Firas Trabelsi, Stephanie Winkler, Biao Zhang, Markus Freitag</authors>
+          <venue>Findings of ACL 2025</venue>
+          <ul> · 
+            <a target="_blank" href="https://aclanthology.org/2025.findings-acl.634/"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://huggingface.co/datasets/google/wmt24pp"><span class="badge badge-pill badge-data">data</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" class="research-paper" href="https://aclanthology.org/2025.iwslt-1.44/">Findings of the IWSLT 2025 Evaluation Campaign</a>
+        <paper>
+          <authors>Idris Abdulmumin, ..., <u>Elizabeth Salesky</u>, ..., + many more</authors>
+          <venue>IWSLT 2025</venue>
+          <ul> · 
+            <a target="_blank" href="https://aclanthology.org/2025.iwslt-1.44/"><span class="badge badge-pill badge-paper">pdf</span></a> · 
+            <a target="_blank" href="https://iwslt.org/2025/"><span class="badge badge-pill badge-site">website</span></a>
+          </ul>
+        </paper>
+      </td>
+    </tr>
+  </tbody>
+  <thead>
+    <tr>
       <th>2024</th>
     </tr>
   </thead>

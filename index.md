@@ -7,10 +7,10 @@ layout: default
 
 Hi! I'm Liz Salesky (<i class="fas fa-volume"></i> [/lɪz səˈlɛski/](https://ipa-reader.com/?text=l%C9%AAz%20s%C9%99%CB%88l%C9%9Bski)), a Research Scientist at Google DeepMind. 
 I received my PhD from the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.cs.jhu.edu/), where I was advised by [Matt Post](https://waypost.net/) and [Philipp Koehn](https://www.cs.jhu.edu/~phi/) and supported by the [Apple Scholars in AI/ML PhD fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2022). 
-My thesis focused on adaptive and robust open-vocabulary language processing. 
+My thesis on robust open-vocabulary language processing won the Best Thesis Award from the [Association for Machine Translation in the Americas](https://amtaweb.org/).
 
-Previously, I received my MSc from [CMU](https://www.lti.cs.cmu.edu/), where I was advised by [Alex Waibel](https://www.cs.cmu.edu/~ahw/) and worked with the [KIT Interactive Systems lab](https://isl.iar.kit.edu/english/index.php) and [Alan W Black](https://www.cs.cmu.edu/~awb/) on speech translation and linguistic diversity. 
-Before that, I worked at [MIT Lincoln Laboratory](https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences/artificial-intelligence-technology-and-systems), focused on machine translation and language learning applications. 
+Previously, I received my MSc from [CMU](https://isl.iar.kit.edu/english/index.php) focusing on speech translation, tokenization, and linguistic diversity. 
+Before that, I worked at [MIT Lincoln Laboratory](https://www.ll.mit.edu/r-d/cyber-security-and-information-sciences/artificial-intelligence-technology-and-systems) on machine translation and language learning applications. 
 I graduated from [Dartmouth College](http://linguistics.dartmouth.edu/undergraduate/honors/past-honors-theses), where I majored in Linguistics and Math. 
 
 When not at my computer, I like to [learn languages](https://www.duolingo.com/profile/esalesky), run, and bike to ice cream!
